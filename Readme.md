@@ -43,5 +43,5 @@ O principal objetivo deste projeto foi reforçar a base em desenvolvimento front
 - CSS3  
 
 ---
-
+![Image](https://github.com/user-attachments/assets/3f168c99-4b6f-4bd6-af1e-650d63aeb6c5)
 📌 Projeto desenvolvido para fins de estudo e prática de desenvolvimento web.
